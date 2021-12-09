@@ -1,0 +1,106 @@
+E:\mauri\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.Properties.Resources.resources
+E:\mauri\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.csproj.GenerateResource.cache
+E:\mauri\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.csproj.CoreCompileInputs.cache
+E:\mauri\Google Drive\Projeto TCC\RememberMe\bin\Debug\RememberMe.exe.config
+E:\mauri\Google Drive\Projeto TCC\RememberMe\bin\Debug\RememberMe.exe
+E:\mauri\Google Drive\Projeto TCC\RememberMe\bin\Debug\RememberMe.pdb
+E:\mauri\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.csprojAssemblyReference.cache
+E:\mauri\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.View.FormPagamentos.resources
+E:\mauri\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.exe
+E:\mauri\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.pdb
+E:\mauri\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.View.AdicionarPagamento.resources
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\bin\Debug\RememberMe.exe.config
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\bin\Debug\RememberMe.exe
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\bin\Debug\RememberMe.pdb
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.csprojAssemblyReference.cache
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.Properties.Resources.resources
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.View.FormPagamentos.resources
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.csproj.GenerateResource.cache
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.csproj.CoreCompileInputs.cache
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.exe
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.pdb
+E:\Mauricio\Google Drive\Projeto TCC\RememberMe\obj\Debug\RememberMe.View.FormAdicionarPagamento.resources
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\bin\Debug\RememberMe.exe.config
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\bin\Debug\RememberMe.exe
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\bin\Debug\RememberMe.pdb
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\obj\Debug\RememberMe.csprojAssemblyReference.cache
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\obj\Debug\RememberMe.Properties.Resources.resources
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\obj\Debug\RememberMe.View.FormAdicionarPagamento.resources
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\obj\Debug\RememberMe.View.FormPagamentos.resources
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\obj\Debug\RememberMe.csproj.GenerateResource.cache
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\obj\Debug\RememberMe.csproj.CoreCompileInputs.cache
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\obj\Debug\RememberMe.exe
+E:\Mauricio\Google Drive\Projeto TCC\Backup 8\obj\Debug\RememberMe.pdb
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.exe.config
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.exe
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.pdb
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csprojAssemblyReference.cache
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.Properties.Resources.resources
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormAdicionarPagamento.resources
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormPagamentos.resources
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.GenerateResource.cache
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.CoreCompileInputs.cache
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.exe
+E:\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.pdb
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.exe.config
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.exe
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.pdb
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csprojAssemblyReference.cache
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.Properties.Resources.resources
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormAdicionarPagamento.resources
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormPagamentos.resources
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.GenerateResource.cache
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.exe
+C:\Users\Mauricio\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.pdb
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.exe.config
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.exe
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.pdb
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.Properties.Resources.resources
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormAdicionarPagamento.resources
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormPagamentos.resources
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.GenerateResource.cache
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.exe
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.pdb
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormEditarPagamento.resources
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\MySql.Data.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\Google.Protobuf.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\Zstandard.Net.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\System.Memory.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\System.Buffers.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\MySql.Data.xml
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.AssemblyReference.cache
+C:\Users\mauri\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.CopyComplete
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.AssemblyReference.cache
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.Properties.Resources.resources
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormAdicionarPagamento.resources
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormEditarPagamento.resources
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.View.FormPagamentos.resources
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.GenerateResource.cache
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.exe
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.pdb
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.exe.config
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.exe
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\RememberMe.pdb
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\Google.Protobuf.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\Zstandard.Net.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\BouncyCastle.Crypto.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\Ubiety.Dns.Core.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\System.Memory.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\System.Buffers.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\K4os.Compression.LZ4.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\K4os.Hash.xxHash.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\System.Numerics.Vectors.dll
+D:\Google Drive\Projeto TCC\RememberMeOriginal\bin\Debug\MySql.Data.xml
+D:\Google Drive\Projeto TCC\RememberMeOriginal\obj\Debug\RememberMe.csproj.CopyComplete
